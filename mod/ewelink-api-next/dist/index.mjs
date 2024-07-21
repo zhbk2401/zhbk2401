@@ -2213,7 +2213,7 @@ var Lan = class {
 
 // src/utils/logger.ts
 import log4js from "../../log4js/lib/log4js.js";
-import path from "https://github.com/nodejs/node/blob/v18.0.0/lib/path.js";
+import path from "../../@types/node/path";
 var createLogger = (name, logLevel, filename) => {
   log4js.configure({
     appenders: {
