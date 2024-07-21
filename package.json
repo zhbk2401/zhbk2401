@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "@types/node": "^18.0.6",
+        "ewelink-api-next": "^1.0.4"
+    }
+}

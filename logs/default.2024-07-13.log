@@ -1,0 +1,64 @@
+[2024-07-13T22:32:41.783] [INFO] eu - Send request:  {
+  url: '/v2/user/login',
+  method: 'post',
+  baseURL: 'https://eu-apia.coolkit.cc',
+  headers: Object [AxiosHeaders] {
+    Accept: 'application/json, text/plain, */*',
+    'Content-Type': 'application/json',
+    'X-CK-Appid': 'Uw83EKZFxdif7XFXEsrpduz5YyjP7nTl',
+    Authorization: 'Sign GVAF820PpU2PHTIaoMf+K2jMur24KuT4wmSYe60XbNA=',
+    'X-CK-Nonce': 'hxrcn9ms',
+    Date: '1720899161783'
+  },
+  params: undefined,
+  data: '{"countryCode":"+380","password":"Lemon4ik_123","email":"zenazybak@gmail.com"}'
+}
+[2024-07-13T22:32:43.341] [INFO] eu - Response received： {"status":200,"responseTime":1558,"error":0,"msg":"","data":{"user":{"timezone":{"id":"Europe/Kiev","offset":3},"accountLevel":10,"countryCode":"+380","email":"zenazybak@gmail.com","apikey":"85f698fe-0510-471a-aecc-e067a22e0cf0","accountConsult":false,"appForumEnterHide":true,"appVersion":"5.7.0","denyRecharge":false,"ipCountry":"UA"},"at":"d2958b953a3486c214af29a77db9347ec58deb63","rt":"fad89f6e05d8446affb3b2adbda19cae1dbdd885","region":"eu"}}
+[2024-07-13T22:33:19.375] [INFO] eu - Send request:  {
+  url: '/v2/user/login',
+  method: 'post',
+  baseURL: 'https://eu-apia.coolkit.cc',
+  headers: Object [AxiosHeaders] {
+    Accept: 'application/json, text/plain, */*',
+    'Content-Type': 'application/json',
+    'X-CK-Appid': 'Uw83EKZFxdif7XFXEsrpduz5YyjP7nTl',
+    Authorization: 'Sign uIm71zHegf+X8l1+tIleOvgFfoDiTgd6FBg8OqbRcxM=',
+    'X-CK-Nonce': '9od1y6at',
+    Date: '1720899199374'
+  },
+  params: undefined,
+  data: '{"countryCode":"+38","password":"Lemon4ik_123","email":"zenazybak@gmail.com"}'
+}
+[2024-07-13T22:33:20.869] [INFO] eu - Response received： {"status":200,"responseTime":1495,"error":0,"msg":"","data":{"user":{"timezone":{"id":"Europe/Kiev","offset":3},"accountLevel":10,"countryCode":"+380","email":"zenazybak@gmail.com","apikey":"85f698fe-0510-471a-aecc-e067a22e0cf0","accountConsult":false,"appForumEnterHide":true,"appVersion":"5.7.0","denyRecharge":false,"ipCountry":"UA"},"at":"bf25c4916556583db40a3e055e0c080268e1bca7","rt":"4450c2483390143e1e99782c549248fb6f85262f","region":"eu"}}
+[2024-07-13T22:33:31.656] [INFO] eu - Send request:  {
+  url: '/v2/user/login',
+  method: 'post',
+  baseURL: 'https://eu-apia.coolkit.cc',
+  headers: Object [AxiosHeaders] {
+    Accept: 'application/json, text/plain, */*',
+    'Content-Type': 'application/json',
+    'X-CK-Appid': 'Uw83EKZFxdif7XFXEsrpduz5YyjP7nTl',
+    Authorization: 'Sign GVAF820PpU2PHTIaoMf+K2jMur24KuT4wmSYe60XbNA=',
+    'X-CK-Nonce': 'q6cg3l1c',
+    Date: '1720899211655'
+  },
+  params: undefined,
+  data: '{"countryCode":"+380","password":"Lemon4ik_123","email":"zenazybak@gmail.com"}'
+}
+[2024-07-13T22:33:33.097] [INFO] eu - Response received： {"status":200,"responseTime":1442,"error":0,"msg":"","data":{"user":{"timezone":{"id":"Europe/Kiev","offset":3},"accountLevel":10,"countryCode":"+380","email":"zenazybak@gmail.com","apikey":"85f698fe-0510-471a-aecc-e067a22e0cf0","accountConsult":false,"appForumEnterHide":true,"appVersion":"5.7.0","denyRecharge":false,"ipCountry":"UA"},"at":"e1dd1da2e16b8fef18dac322caae3dd9ec676c9d","rt":"906714439c31c926eb7433f8e652104ec57dd96f","region":"eu"}}
+[2024-07-13T22:41:13.174] [INFO] eu - Send request:  {
+  url: '/v2/user/login',
+  method: 'post',
+  baseURL: 'https://eu-apia.coolkit.cc',
+  headers: Object [AxiosHeaders] {
+    Accept: 'application/json, text/plain, */*',
+    'Content-Type': 'application/json',
+    'X-CK-Appid': 'Uw83EKZFxdif7XFXEsrpduz5YyjP7nTl',
+    Authorization: 'Sign GVAF820PpU2PHTIaoMf+K2jMur24KuT4wmSYe60XbNA=',
+    'X-CK-Nonce': '8ksds3gu',
+    Date: '1720899673172'
+  },
+  params: undefined,
+  data: '{"countryCode":"+380","password":"Lemon4ik_123","email":"zenazybak@gmail.com"}'
+}
+[2024-07-13T22:41:14.698] [INFO] eu - Response received： {"status":200,"responseTime":1526,"error":0,"msg":"","data":{"user":{"timezone":{"id":"Europe/Kiev","offset":3},"accountLevel":10,"countryCode":"+380","email":"zenazybak@gmail.com","apikey":"85f698fe-0510-471a-aecc-e067a22e0cf0","accountConsult":false,"appForumEnterHide":true,"appVersion":"5.7.0","denyRecharge":false,"ipCountry":"UA"},"at":"894149f783776131dbf9e793825d472b5d9d2e37","rt":"8d9496ce7fa541bb1341286ee1030d29d5fc0d3e","region":"eu"}}
